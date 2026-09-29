@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chenamoninaveen2006-wq/palindrome/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/chenamoninaveen2006-wq/palindrome/tree/master/0042-trapping-rain-water) |
+| [0481-magical-string](https://github.com/chenamoninaveen2006-wq/palindrome/tree/master/0481-magical-string) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/chenamoninaveen2006-wq/palindrome/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/chenamoninaveen2006-wq/palindrome/tree/master/0044-wildcard-matching) |
+| [0481-magical-string](https://github.com/chenamoninaveen2006-wq/palindrome/tree/master/0481-magical-string) |
 <!---LeetCode Topics End-->
